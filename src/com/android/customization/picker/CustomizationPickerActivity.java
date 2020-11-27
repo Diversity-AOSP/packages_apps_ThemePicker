@@ -93,7 +93,7 @@ public class CustomizationPickerActivity extends FragmentActivity implements Wal
 
     private static final String TAG = "CustomizationPickerActivity";
     @VisibleForTesting static final String WALLPAPER_FLAVOR_EXTRA =
-            "com.android.launcher3.WALLPAPER_FLAVOR";
+            "com.google.android.apps.nexuslauncher.WALLPAPER_FLAVOR";
     @VisibleForTesting static final String WALLPAPER_FOCUS = "focus_wallpaper";
     @VisibleForTesting static final String WALLPAPER_ONLY = "wallpaper_only";
 
