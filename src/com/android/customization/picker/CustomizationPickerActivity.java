@@ -94,7 +94,7 @@ public class CustomizationPickerActivity extends FragmentActivity implements Wal
         BottomActionBarHost, FragmentTransactionChecker {
 
     public static final String WALLPAPER_FLAVOR_EXTRA =
-            "com.google.android.apps.nexuslauncher.WALLPAPER_FLAVOR";
+            "com.android.launcher3.WALLPAPER_FLAVOR";
     public static final String WALLPAPER_FOCUS = "focus_wallpaper";
     private static final String TAG = "CustomizationPickerActivity";
     @VisibleForTesting static final String WALLPAPER_ONLY = "wallpaper_only";
