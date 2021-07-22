@@ -23,4 +23,5 @@
     <!-- Themes suffix after reading if they're dark or light only friendly -->
     <string name="ui_styles_suffix_light_only">Nur hell</string>
     <string name="ui_styles_suffix_dark_only">Nur dunkel</string>
+    <string name="use_accent_color">Akzentfarbe verwenden</string>
 </resources>

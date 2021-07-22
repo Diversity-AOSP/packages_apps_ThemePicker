@@ -23,4 +23,5 @@
     <!-- Themes suffix after reading if they're dark or light only friendly -->
     <string name="ui_styles_suffix_light_only">Light only</string>
     <string name="ui_styles_suffix_dark_only">Dark only</string>
+    <string name="use_accent_color">Use accent color</string>
 </resources>
