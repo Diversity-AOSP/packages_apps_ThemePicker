@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2023 DerpFest
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- System Icon section -->
+    <dimen name="icon_options_container_min_height">96dp</dimen>
+    <dimen name="icon_options_container_top_margin">24dp</dimen>
+
+</resources>
