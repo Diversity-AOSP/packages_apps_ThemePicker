@@ -11,4 +11,7 @@
     <!-- System Fonts section -->
     <string name="font_title">Systemschriftart</string>
 
+    <!-- System Icon Shape section -->
+    <string name="icon_shape_title">Symbolform</string>
+
 </resources>
